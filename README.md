@@ -40,7 +40,7 @@ Demonstrações do App:
 
 ## Instalação do Aplicativo:
 
-apk.release.apk
+app-release.apk
 
 ##
 

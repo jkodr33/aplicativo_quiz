@@ -29,6 +29,8 @@ Desenvolvido para Android/iOS e Web!!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
 
+<br>
+
 Demonstrações do App:
 
 
